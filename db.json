@@ -1,5 +1,5 @@
 {
-  "recipe": [
+  "recipes": [
     {
       "id": 1,
       "username": "coreyschafer",
@@ -707,5 +707,6 @@
       ],
       "instructions": "In a large skillet, melt butter and olive oil over medium heat. Add minced garlic and red pepper flakes, and cook for a minute. Add shrimp and cook until they turn pink and are cooked through. Remove the shrimp from the skillet and set aside. Deglaze the skillet with white wine, scraping up any browned bits. Add lemon juice, salt, and black pepper. Cook until the sauce reduces slightly. Return the shrimp to the skillet and toss to coat with the sauce. Sprinkle with chopped parsley. Serve the shrimp scampi over pasta or with crusty bread to soak up the delicious sauce."
     }
-  ]
+  ],
+  "users": []
 }
