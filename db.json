@@ -1,0 +1,711 @@
+{
+  "recipe": [
+    {
+      "id": 1,
+      "username": "coreyschafer",
+      "title": "Hazelnut Brownies",
+      "image": "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
+      "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
+      "category": "Dessert",
+      "ingredients": [
+        "Hazelnut",
+        "Dark chocolate",
+        "Flour",
+        "Eggs"
+      ],
+      "instructions": "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."
+    },
+    {
+      "id": 2,
+      "username": "cookingmaster",
+      "title": "Spicy Chicken Wings",
+      "image": "https://bing.com/th?id=OSK.f9658add3b53f6d29b3c699c6a729944",
+      "description": "Deliciously spicy and crispy chicken wings perfect as a starter for any meal or as a party snack.",
+      "category": "Starter",
+      "ingredients": [
+        "Chicken wings",
+        "Hot sauce",
+        "Flour",
+        "Vegetable oil"
+      ],
+      "instructions": "Preheat the oven to 200°C. In a bowl, mix hot sauce and melted butter. Dip the chicken wings into the sauce mixture and coat well. In a separate bowl, combine flour, salt, and pepper. Roll the chicken wings in the flour mixture until evenly coated. Heat vegetable oil in a pan and fry the chicken wings until golden and crispy. Transfer the wings to a baking tray and bake in the oven for 10-15 minutes. Serve hot with your favorite dipping sauce."
+    },
+    {
+      "id": 3,
+      "username": "pizzalover",
+      "title": "Margherita Pizza",
+      "image": "https://bing.com/th?id=OSK.f6f76652e57253c2dd6a28b7dc96e11e",
+      "description": "Classic and timeless, Margherita pizza is a simple yet delicious choice topped with fresh tomatoes, mozzarella, and basil leaves.",
+      "category": "Main Course",
+      "ingredients": [
+        "Pizza dough",
+        "Tomatoes",
+        "Mozzarella cheese",
+        "Fresh basil",
+        "Olive oil"
+      ],
+      "instructions": "Preheat the oven to 220°C. Roll out the pizza dough into a circle and place it on a baking sheet. Drizzle olive oil on the dough. Spread sliced tomatoes evenly on the dough. Tear mozzarella into small pieces and place them on top of the tomatoes. Sprinkle with fresh basil leaves. Bake in the oven for 10-12 minutes or until the crust is golden and the cheese is melted. Remove from the oven and let it cool slightly before slicing. Enjoy!"
+    },
+    {
+      "id": 4,
+      "username": "sweettooth",
+      "title": "Chocolate Chip Cookies",
+      "image": "https://bing.com/th?id=AMMS_d6bf6b6e306c8e87ceab470bd74703d9",
+      "description": "Soft and chewy chocolate chip cookies with a perfect balance of sweetness and rich chocolate.",
+      "category": "Dessert",
+      "ingredients": [
+        "Butter",
+        "Brown sugar",
+        "Granulated sugar",
+        "Eggs",
+        "Vanilla extract",
+        "Flour",
+        "Baking soda",
+        "Salt",
+        "Chocolate chips"
+      ],
+      "instructions": "Preheat the oven to 180°C. In a bowl, cream together butter, brown sugar, and granulated sugar. Add eggs one at a time, beating well after each addition. Stir in vanilla extract. In a separate bowl, combine flour, baking soda, and salt. Gradually add the dry ingredients to the butter mixture and mix until well combined. Fold in the chocolate chips. Drop spoonfuls of dough onto a baking sheet and bake for 10-12 minutes or until golden brown. Allow the cookies to cool on the baking sheet for a few minutes, then transfer to a wire rack to cool completely."
+    },
+    {
+      "id": 5,
+      "username": "saladlover",
+      "title": "Caprese Salad",
+      "image": "https://bing.com/th?id=OSK.316db1986612f6f23900712a59871472",
+      "description": "A refreshing salad made with ripe tomatoes, fresh mozzarella, basil leaves, and balsamic glaze.",
+      "category": "Starter",
+      "ingredients": [
+        "Tomatoes",
+        "Fresh mozzarella cheese",
+        "Fresh basil leaves",
+        "Balsamic glaze",
+        "Olive oil",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": "Slice tomatoes and mozzarella cheese into 1/4-inch thick slices. Arrange tomato slices on a platter, alternating with mozzarella slices. Tuck basil leaves between the tomato and mozzarella slices. Drizzle with balsamic glaze and olive oil. Season with salt and pepper to taste. Serve immediately and enjoy the fresh flavors of Caprese salad."
+    },
+    {
+      "id": 6,
+      "username": "asiancuisine",
+      "title": "Beef Stir-Fry",
+      "image": "https://bing.com/th?id=OSK.48b6d9de3712a4bd445a9f4aeaa50713",
+      "description": "Tender beef slices stir-fried with colorful vegetables in a flavorful sauce, served over steamed rice.",
+      "category": "Main Course",
+      "ingredients": [
+        "Beef sirloin",
+        "Bell peppers",
+        "Broccoli",
+        "Carrots",
+        "Soy sauce",
+        "Garlic",
+        "Ginger",
+        "Cornstarch",
+        "Vegetable oil"
+      ],
+      "instructions": "Slice beef into thin strips and marinate with soy sauce, garlic, and ginger. In a wok or large skillet, heat vegetable oil over high heat. Add beef and stir-fry until browned. Remove beef from the pan and set aside. In the same pan, stir-fry bell peppers, broccoli, and carrots until crisp-tender. Return beef to the pan and add soy sauce. Dissolve cornstarch in water and add to the pan to thicken the sauce. Cook for a few more minutes until the sauce coats the beef and vegetables. Serve over steamed rice."
+    },
+    {
+      "id": 7,
+      "username": "bakingqueen",
+      "title": "Lemon Bars",
+      "image": "https://bing.com/th?id=OSK.bee3e6f1a5354901fcd6145c3a18c3ad",
+      "description": "Tangy and sweet lemon bars with a buttery shortbread crust and a luscious lemon filling.",
+      "category": "Dessert",
+      "ingredients": [
+        "Butter",
+        "Flour",
+        "Powdered sugar",
+        "Eggs",
+        "Granulated sugar",
+        "Lemon juice",
+        "Lemon zest",
+        "Baking powder",
+        "Salt"
+      ],
+      "instructions": "Preheat the oven to 180°C. In a bowl, combine butter, flour, and powdered sugar to make the shortbread crust. Press the mixture into a greased baking pan and bake for 15-20 minutes or until lightly golden. In another bowl, whisk together eggs, granulated sugar, lemon juice, lemon zest, baking powder, and salt to make the lemon filling. Pour the filling over the baked crust and return to the oven for an additional 20-25 minutes or until the filling is set. Let the bars cool completely before cutting into squares. Dust with powdered sugar and serve."
+    },
+    {
+      "id": 8,
+      "username": "appetizerlover",
+      "title": "Spinach and Feta Stuffed Mushrooms",
+      "image": "https://bing.com/th?id=OSK.be4a31c90f63a1996a3ea279c47f5e6a",
+      "description": "Mushroom caps filled with a delicious mixture of spinach, feta cheese, and herbs, baked to perfection.",
+      "category": "Starter",
+      "ingredients": [
+        "Mushrooms",
+        "Spinach",
+        "Feta cheese",
+        "Garlic",
+        "Onion",
+        "Breadcrumbs",
+        "Olive oil",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": "Preheat the oven to 180°C. Remove stems from mushrooms and set aside. In a pan, heat olive oil and sauté garlic and onion until fragrant. Add chopped mushroom stems and cook until softened. Stir in spinach and cook until wilted. Remove from heat and let it cool. In a bowl, combine the spinach mixture, crumbled feta cheese, breadcrumbs, salt, and pepper. Fill each mushroom cap with the stuffing mixture. Place the mushrooms on a baking sheet and bake for 15-20 minutes or until the mushrooms are tender and the filling is golden. Serve hot and enjoy!"
+    },
+    {
+      "id": 9,
+      "username": "seafoodlover",
+      "title": "Grilled Salmon with Lemon Butter Sauce",
+      "image": "https://bing.com/th?id=OSK.6c0b30f32eee30379ef350881b25adc0",
+      "description": "Juicy grilled salmon fillets topped with a tangy lemon butter sauce, served with steamed vegetables.",
+      "category": "Main Course",
+      "ingredients": [
+        "Salmon fillets",
+        "Lemon",
+        "Butter",
+        "Garlic",
+        "Fresh dill",
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "instructions": "Preheat the grill to medium-high heat. Rub salmon fillets with olive oil and season with salt and pepper. Grill the salmon for about 4-5 minutes on each side, or until cooked to your desired doneness. In a small saucepan, melt butter over low heat. Add minced garlic and cook until fragrant. Squeeze lemon juice into the saucepan and stir in fresh dill. Remove from heat. Place the grilled salmon on a serving platter and drizzle with the lemon butter sauce. Serve with steamed vegetables or your favorite side dish."
+    },
+    {
+      "id": 10,
+      "username": "pieexpert",
+      "title": "Apple Pie",
+      "image": "https://bing.com/th?id=OSK.ca7b4ec746e1c1b3beb8dfa8f494ac38",
+      "description": "Classic homemade apple pie with a flaky crust and a sweet and spiced apple filling.",
+      "category": "Dessert",
+      "ingredients": [
+        "Pie crust",
+        "Apples",
+        "Sugar",
+        "Cinnamon",
+        "Flour",
+        "Butter",
+        "Egg",
+        "Lemon juice"
+      ],
+      "instructions": "Preheat the oven to 190°C. Roll out half of the pie crust and line a pie dish. In a large bowl, mix sliced apples, sugar, cinnamon, flour, lemon juice, and a pinch of salt. Pour the apple mixture into the prepared pie crust. Dot the top with small pieces of butter. Roll out the remaining pie crust and place it over the filling. Trim the excess crust and crimp the edges to seal. Cut slits in the top crust to allow steam to escape. Beat an egg and brush it over the top crust for a golden finish. Bake for 45-50 minutes or until the crust is golden and the filling is bubbly. Allow the pie to cool before serving. Serve with vanilla ice cream, if desired."
+    },
+    {
+      "id": 11,
+      "username": "italianfoodlover",
+      "title": "Bruschetta",
+      "image": "https://bing.com/th?id=OSK.1961b901da0a86d0e9bf38579bd65e95",
+      "description": "Toasted bread topped with ripe tomatoes, garlic, basil, and drizzled with balsamic glaze.",
+      "category": "Starter",
+      "ingredients": [
+        "Baguette",
+        "Tomatoes",
+        "Garlic",
+        "Fresh basil leaves",
+        "Olive oil",
+        "Balsamic glaze",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": "Preheat the oven to 180°C. Slice the baguette into diagonal pieces. Place the slices on a baking sheet and drizzle with olive oil. Toast the bread in the oven for 10-12 minutes or until crispy. In a bowl, combine diced tomatoes, minced garlic, chopped basil leaves, salt, and pepper. Remove the toasted bread from the oven and let it cool slightly. Spoon the tomato mixture onto each slice of bread. Drizzle with balsamic glaze. Serve immediately and enjoy the delicious bruschetta."
+    },
+    {
+      "id": 11,
+      "username": "italianfoodlover",
+      "title": "Bruschetta",
+      "image": "https://bing.com/th?id=OSK.4471f2880ca61d290656ad668f32eb8b",
+      "description": "Toasted bread topped with ripe tomatoes, garlic, basil, and drizzled with balsamic glaze.",
+      "category": "Starter",
+      "ingredients": [
+        "Baguette",
+        "Tomatoes",
+        "Garlic",
+        "Fresh basil leaves",
+        "Olive oil",
+        "Balsamic glaze",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": "Preheat the oven to 180°C. Slice the baguette into diagonal pieces. Place the slices on a baking sheet and drizzle with olive oil. Toast the bread in the oven for 10-12 minutes or until crispy. In a bowl, combine diced tomatoes, minced garlic, chopped basil leaves, salt, and pepper. Remove the toasted bread from the oven and let it cool slightly. Spoon the tomato mixture onto each slice of bread. Drizzle with balsamic glaze. Serve immediately and enjoy the delicious bruschetta."
+    },
+    {
+      "id": 13,
+      "username": "cheesecakemaster",
+      "title": "Cheesecake",
+      "image": "https://bing.com/th?id=OSK.d9d3db51a0163d5719f84ced585c7c35",
+      "description": "Creamy and decadent cheesecake with a buttery graham cracker crust and a velvety smooth filling.",
+      "category": "Dessert",
+      "ingredients": [
+        "Graham crackers",
+        "Butter",
+        "Cream cheese",
+        "Sugar",
+        "Eggs",
+        "Vanilla extract",
+        "Lemon juice"
+      ],
+      "instructions": "Preheat the oven to 180°C. Crush graham crackers and mix them with melted butter. Press the mixture into the bottom of a springform pan to form the crust. In a bowl, beat cream cheese and sugar until smooth and creamy. Add eggs one at a time, mixing well after each addition. Stir in vanilla extract and lemon juice. Pour the cream cheese mixture over the crust in the pan. Smooth the top with a spatula. Bake for 45-50 minutes or until the edges are set and the center is slightly jiggly. Turn off the oven and leave the cheesecake inside for another hour. Remove from the oven and let it cool completely. Chill in the refrigerator for at least 4 hours or overnight before serving."
+    },
+    {
+      "id": 14,
+      "username": "saladchef",
+      "title": "Caesar Salad",
+      "image": "https://bing.com/th?id=OSK.337589f14b6151c17554447127a3959b",
+      "description": "Classic Caesar salad with crisp romaine lettuce, homemade croutons, Parmesan cheese, and creamy Caesar dressing.",
+      "category": "Starter",
+      "ingredients": [
+        "Romaine lettuce",
+        "Croutons",
+        "Parmesan cheese",
+        "Caesar dressing",
+        "Anchovy fillets",
+        "Garlic",
+        "Lemon juice",
+        "Worcestershire sauce",
+        "Dijon mustard",
+        "Olive oil",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": "In a large salad bowl, tear romaine lettuce into bite-sized pieces. Add homemade croutons and grated Parmesan cheese. In a separate bowl, prepare the Caesar dressing by whisking together anchovy fillets, minced garlic, lemon juice, Worcestershire sauce, Dijon mustard, olive oil, salt, and pepper. Pour the dressing over the lettuce and toss until well coated. Serve the Caesar salad as a starter or add grilled chicken or shrimp to make it a complete meal."
+    },
+    {
+      "id": 15,
+      "username": "pastalover",
+      "title": "Chicken Alfredo Pasta",
+      "image": "https://bing.com/th?id=OSK.728f1929247e8b99110ee447ad1c22a1",
+      "description": "Creamy and indulgent pasta dish with grilled chicken, fettuccine noodles, and a rich Alfredo sauce.",
+      "category": "Main Course",
+      "ingredients": [
+        "Chicken breast",
+        "Fettuccine pasta",
+        "Heavy cream",
+        "Parmesan cheese",
+        "Garlic",
+        "Butter",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": "Cook fettuccine pasta according to package instructions. Season chicken breast with salt and pepper, then grill or pan-fry until cooked through. In a saucepan, melt butter and sauté minced garlic until fragrant. Pour in heavy cream and bring to a simmer. Stir in grated Parmesan cheese until melted and the sauce thickens. Season with salt and pepper to taste. Slice the grilled chicken into strips. Drain the cooked pasta and add it to the Alfredo sauce. Toss until the pasta is coated in the sauce. Add the sliced chicken and mix well. Serve hot and garnish with additional Parmesan cheese and chopped parsley, if desired."
+    },
+    {
+      "id": 16,
+      "username": "pizzamaster",
+      "title": "Margherita Pizza",
+      "image": "https://th.bing.com/th?id=OSK.32079802b7cf7a2df5512043bc80219a&w=612&h=459&c=7&rs=1&qlt=80&o=6&cdv=1&dpr=1.1&pid=16.1",
+      "description": "Classic Italian pizza with a thin crust, topped with tomato sauce, mozzarella cheese, and fresh basil leaves.",
+      "category": "Main Course",
+      "ingredients": [
+        "Pizza dough",
+        "Tomato sauce",
+        "Mozzarella cheese",
+        "Fresh basil leaves",
+        "Olive oil",
+        "Salt"
+      ],
+      "instructions": "Preheat the oven to the highest temperature. Roll out the pizza dough into a thin round shape. Place it on a baking sheet or pizza stone. Spread tomato sauce evenly over the dough, leaving a small border around the edges. Sprinkle mozzarella cheese over the sauce. Drizzle olive oil and sprinkle salt on top. Bake for about 10-15 minutes or until the crust is golden and the cheese is melted and bubbly. Remove from the oven and garnish with fresh basil leaves. Slice and serve hot."
+    },
+    {
+      "id": 17,
+      "username": "souplover",
+      "title": "Chicken Noodle Soup",
+      "image": "https://bing.com/th?id=OSK.ad069c5237bf658d23cf95425e2d6224",
+      "description": "Comforting soup made with chicken, vegetables, and egg noodles, perfect for cold days.",
+      "category": "Starter",
+      "ingredients": [
+        "Chicken broth",
+        "Chicken breast",
+        "Carrots",
+        "Celery",
+        "Onion",
+        "Egg noodles",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Bay leaf",
+        "Parsley"
+      ],
+      "instructions": "In a large pot, bring chicken broth to a boil. Add chicken breast, carrots, celery, onion, minced garlic, bay leaf, salt, and pepper. Simmer for about 20-25 minutes or until the chicken is cooked through and the vegetables are tender. Remove the chicken from the pot and shred it into bite-sized pieces. Return the shredded chicken to the pot. Add egg noodles and cook according to package instructions. Stir in chopped parsley before serving. Ladle the chicken noodle soup into bowls and serve hot."
+    },
+    {
+      "id": 18,
+      "username": "cookiebaker",
+      "title": "Chocolate Chip Cookies",
+      "image": "https://bing.com/th?id=OSK.598c5b2b7b65082004e599cc520830a2",
+      "description": "Classic homemade chocolate chip cookies with a soft and chewy texture.",
+      "category": "Dessert",
+      "ingredients": [
+        "Butter",
+        "Granulated sugar",
+        "Brown sugar",
+        "Eggs",
+        "Vanilla extract",
+        "All-purpose flour",
+        "Baking soda",
+        "Salt",
+        "Chocolate chips",
+        "Chopped nuts (optional)"
+      ],
+      "instructions": "Preheat the oven to 180°C. In a large bowl, cream together softened butter, granulated sugar, and brown sugar until light and fluffy. Beat in eggs one at a time, then stir in vanilla extract. In a separate bowl, whisk together all-purpose flour, baking soda, and salt. Gradually add the dry ingredients to the butter mixture and mix until just combined. Stir in chocolate chips and chopped nuts, if desired. Drop spoonfuls of dough onto a baking sheet and bake for 10-12 minutes or until the edges are golden brown. Allow the cookies to cool on the baking sheet for a few minutes, then transfer them to a wire rack to cool completely."
+    },
+    {
+      "id": 19,
+      "username": "saladlover",
+      "title": "Caesar Salad",
+      "image": "https://bing.com/th?id=AMMS_63308c0ef1c6816689f20e360e513e44",
+      "description": "Classic Caesar salad with crisp romaine lettuce, garlic croutons, Parmesan cheese, and creamy Caesar dressing.",
+      "category": "Starter",
+      "ingredients": [
+        "Romaine lettuce",
+        "Croutons",
+        "Parmesan cheese",
+        "Caesar dressing",
+        "Lemon juice",
+        "Garlic",
+        "Anchovy paste",
+        "Dijon mustard",
+        "Worcestershire sauce",
+        "Olive oil",
+        "Salt",
+        "Black pepper"
+      ],
+      "instructions": "In a large salad bowl, combine torn romaine lettuce, croutons, and grated Parmesan cheese. In a separate small bowl, whisk together Caesar dressing, lemon juice, minced garlic, anchovy paste, Dijon mustard, Worcestershire sauce, olive oil, salt, and black pepper until well combined. Pour the dressing over the salad and toss until all the ingredients are coated. Serve immediately as a starter or side dish."
+    },
+    {
+      "id": 20,
+      "username": "stirfrychef",
+      "title": "Beef Stir-Fry",
+      "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F0e9914b18b6c5a76afa000eec8a180bb%2F16795019886966A21F626-97F9-4BD0-B9BD-2DBE94AA3B9C.jpeg&q=60&c=sc&orient=true&poi=auto&h=512",
+      "description": "Flavorful beef stir-fry with a mix of colorful vegetables, served over steamed rice.",
+      "category": "Main Course",
+      "ingredients": [
+        "Beef sirloin",
+        "Broccoli florets",
+        "Bell peppers",
+        "Carrots",
+        "Onion",
+        "Garlic",
+        "Ginger",
+        "Soy sauce",
+        "Oyster sauce",
+        "Cornstarch",
+        "Sesame oil",
+        "Vegetable oil",
+        "Salt",
+        "Black pepper"
+      ],
+      "instructions": "In a small bowl, mix soy sauce, oyster sauce, cornstarch, sesame oil, salt, and black pepper to make the sauce. Slice beef sirloin into thin strips. Heat vegetable oil in a wok or large skillet over high heat. Add minced garlic and grated ginger, and stir-fry for a minute. Add beef strips and cook until browned. Remove the beef from the pan and set aside. In the same pan, stir-fry broccoli florets, sliced bell peppers, julienned carrots, and sliced onion until crisp-tender. Return the beef to the pan and pour in the sauce. Stir-fry for a few more minutes until the sauce thickens and coats the ingredients. Serve the beef stir-fry over steamed rice."
+    },
+    {
+      "id": 21,
+      "username": "salmonlover",
+      "title": "Baked Salmon",
+      "image": "https://bing.com/th?id=OSK.a599da5dc8cb88ecbb6abb6759562a2c",
+      "description": "Delicious and healthy salmon fillets baked to perfection with a flavorful herb crust.",
+      "category": "Main Course",
+      "ingredients": [
+        "Salmon fillets",
+        "Fresh dill",
+        "Lemon zest",
+        "Garlic",
+        "Dijon mustard",
+        "Breadcrumbs",
+        "Olive oil",
+        "Salt",
+        "Black pepper"
+      ],
+      "instructions": "Preheat the oven to 200°C. In a small bowl, combine chopped fresh dill, lemon zest, minced garlic, Dijon mustard, breadcrumbs, olive oil, salt, and black pepper to make the herb crust. Place the salmon fillets on a baking sheet lined with parchment paper. Press the herb crust mixture onto the top of each fillet. Bake for about 12-15 minutes or until the salmon is cooked through and flakes easily with a fork. Serve the baked salmon with a squeeze of lemon juice and your choice of side dishes."
+    },
+    {
+      "id": 22,
+      "username": "capreselover",
+      "title": "Caprese Salad",
+      "image": "https://bing.com/th?id=OSK.396a6d8548645c154b392498ef197eaf",
+      "description": "Simple and refreshing salad made with fresh mozzarella cheese, tomatoes, basil leaves, and balsamic glaze.",
+      "category": "Starter",
+      "ingredients": [
+        "Fresh mozzarella cheese",
+        "Tomatoes",
+        "Fresh basil leaves",
+        "Extra virgin olive oil",
+        "Balsamic glaze",
+        "Salt",
+        "Black pepper"
+      ],
+      "instructions": "Slice fresh mozzarella cheese and tomatoes into thick slices. Arrange them on a serving platter, alternating between mozzarella and tomato slices. Tuck fresh basil leaves between the cheese and tomatoes. Drizzle extra virgin olive oil and balsamic glaze over the salad. Sprinkle with salt and black pepper to taste. Let the salad sit for a few minutes to allow the flavors to meld together. Serve the Caprese salad as a refreshing starter."
+    },
+    {
+      "id": 23,
+      "username": "pancakechef",
+      "title": "Blueberry Pancakes",
+      "image": "https://bing.com/th?id=OSK.cae8ae9d39d622dc00bfd38140f390e8",
+      "description": "Fluffy pancakes studded with juicy blueberries, perfect for a delightful breakfast.",
+      "category": "Breakfast",
+      "ingredients": [
+        "All-purpose flour",
+        "Baking powder",
+        "Sugar",
+        "Salt",
+        "Egg",
+        "Milk",
+        "Butter",
+        "Vanilla extract",
+        "Blueberries",
+        "Maple syrup"
+      ],
+      "instructions": "In a large bowl, whisk together all-purpose flour, baking powder, sugar, and salt. In a separate bowl, whisk together egg, milk, melted butter, and vanilla extract. Pour the wet ingredients into the dry ingredients and stir until just combined. Gently fold in fresh blueberries. Heat a non-stick skillet or griddle over medium heat. Scoop 1/4 cup of batter onto the skillet for each pancake. Cook until bubbles form on the surface, then flip and cook for another minute or until golden brown. Serve the blueberry pancakes hot with maple syrup."
+    },
+    {
+      "id": 24,
+      "username": "chickenlover",
+      "title": "Chicken Parmesan",
+      "image": "https://bing.com/th?id=OSK.37ffafe0aa754bf662ac83f8977628d5",
+      "description": "Crispy breaded chicken breasts topped with marinara sauce, melted mozzarella cheese, and Parmesan cheese.",
+      "category": "Main Course",
+      "ingredients": [
+        "Chicken breasts",
+        "Breadcrumbs",
+        "Parmesan cheese",
+        "Egg",
+        "Flour",
+        "Marinara sauce",
+        "Mozzarella cheese",
+        "Fresh basil leaves",
+        "Olive oil",
+        "Salt",
+        "Black pepper"
+      ],
+      "instructions": "Preheat the oven to 200°C. Season chicken breasts with salt and black pepper. In a shallow dish, combine breadcrumbs and grated Parmesan cheese. In another dish, beat an egg. Dip each chicken breast into flour, then into the beaten egg, and finally coat with the breadcrumb mixture. Heat olive oil in a skillet over medium heat. Cook the breaded chicken breasts until golden brown on both sides. Transfer the chicken to a baking dish, top with marinara sauce, mozzarella cheese, and a few fresh basil leaves. Bake for about 15-20 minutes or until the cheese is melted and bubbly. Serve the chicken Parmesan with pasta or a side salad."
+    },
+    {
+      "id": 25,
+      "username": "gazpachochef",
+      "title": "Gazpacho",
+      "image": "https://bing.com/th?id=OSK.2ac056f3e3fc2f054bed8e8b8deb75bd",
+      "description": "Refreshing chilled soup made with ripe tomatoes, cucumbers, bell peppers, garlic, and herbs.",
+      "category": "Starter",
+      "ingredients": [
+        "Ripe tomatoes",
+        "Cucumbers",
+        "Bell peppers",
+        "Red onion",
+        "Garlic",
+        "Bread",
+        "Olive oil",
+        "Red wine vinegar",
+        "Salt",
+        "Black pepper",
+        "Fresh basil leaves",
+        "Fresh parsley leaves"
+      ],
+      "instructions": "In a blender, combine ripe tomatoes, peeled and chopped cucumbers, chopped bell peppers, chopped red onion, minced garlic, soaked bread, olive oil, red wine vinegar, salt, and black pepper. Blend until smooth. If desired, strain the soup to remove any seeds or skin. Chill the gazpacho in the refrigerator for at least 2 hours to let the flavors meld together. Before serving, garnish with fresh basil leaves and parsley leaves. Serve the gazpacho cold as a refreshing starter."
+    },
+    {
+      "id": 26,
+      "username": "currylover",
+      "title": "Chicken Curry",
+      "image": "https://bing.com/th?id=OSK.2d43046a3132acc0ba09fd03ea82f70e",
+      "description": "Flavorful and aromatic chicken curry cooked with a blend of spices and served with rice or naan bread.",
+      "category": "Main Course",
+      "ingredients": [
+        "Chicken pieces",
+        "Onion",
+        "Garlic",
+        "Ginger",
+        "Tomatoes",
+        "Yogurt",
+        "Ground turmeric",
+        "Ground cumin",
+        "Ground coriander",
+        "Red chili powder",
+        "Garam masala",
+        "Vegetable oil",
+        "Salt",
+        "Water"
+      ],
+      "instructions": "In a large skillet, heat vegetable oil over medium heat. Add chopped onion and sauté until golden brown. Add minced garlic and grated ginger, and cook for a minute. Add diced tomatoes and cook until they break down. In a bowl, whisk together yogurt, ground turmeric, ground cumin, ground coriander, red chili powder, and garam masala. Add the spice mixture to the skillet and cook for a few minutes. Add chicken pieces, salt, and water. Cover and simmer until the chicken is cooked through and tender. Serve the chicken curry with rice or naan bread."
+    },
+    {
+      "id": 27,
+      "username": "tiramisulover",
+      "title": "Tiramisu",
+      "image": "https://th.bing.com/th?id=OSK.HERO5qLkxLVf41gMfZr3XgF6_0P2PqLJNHmrVsGZ_d2Z3nQ&w=472&h=280&c=13&rs=2&o=6&dpr=1.1&pid=SANGAM",
+      "description": "Classic Italian dessert made with layers of ladyfingers soaked in coffee and layered with a creamy mascarpone filling.",
+      "category": "Dessert",
+      "ingredients": [
+        "Ladyfingers",
+        "Strong brewed coffee",
+        "Mascarpone cheese",
+        "Egg yolks",
+        "Granulated sugar",
+        "Vanilla extract",
+        "Cocoa powder"
+      ],
+      "instructions": "In a shallow dish, pour strong brewed coffee. Dip each ladyfinger into the coffee for a few seconds, allowing them to absorb the coffee without becoming soggy. In a mixing bowl, beat together mascarpone cheese, egg yolks, granulated sugar, and vanilla extract until smooth and creamy. In a serving dish, arrange a layer of soaked ladyfingers. Spread a layer of the mascarpone mixture over the ladyfingers. Repeat the layers, ending with a layer of the mascarpone mixture. Dust the top with cocoa powder. Refrigerate the tiramisu for at least 4 hours or overnight to allow the flavors to meld together. Serve chilled and enjoy this decadent dessert."
+    },
+    {
+      "id": 28,
+      "username": "caesarchef",
+      "title": "Caesar Salad",
+      "image": "https://bing.com/th?id=OSK.5773c1a49df8f8e641f5a11e18cf5c59",
+      "description": "Classic Caesar salad made with crisp romaine lettuce, Parmesan cheese, croutons, and a creamy Caesar dressing.",
+      "category": "Starter",
+      "ingredients": [
+        "Romaine lettuce",
+        "Parmesan cheese",
+        "Croutons",
+        "Caesar dressing",
+        "Lemon juice",
+        "Anchovy paste",
+        "Dijon mustard",
+        "Garlic",
+        "Egg yolks",
+        "Olive oil",
+        "Salt",
+        "Black pepper"
+      ],
+      "instructions": "In a large bowl, tear the romaine lettuce into bite-sized pieces. Add grated Parmesan cheese and croutons. In a separate bowl, whisk together Caesar dressing, lemon juice, anchovy paste, Dijon mustard, minced garlic, and egg yolks. Slowly drizzle in olive oil while whisking continuously until the dressing is emulsified. Season with salt and black pepper to taste. Pour the dressing over the lettuce and toss to coat evenly. Serve the Caesar salad as a delicious and refreshing starter."
+    },
+    {
+      "id": 29,
+      "username": "stirfrychef",
+      "title": "Vegetable Stir-Fry",
+      "image": "https://bing.com/th?id=OSK.afe0b0732f41eaf93c37a27c224c434d",
+      "description": "Colorful and nutritious stir-fried vegetables tossed in a flavorful sauce.",
+      "category": "Main Course",
+      "ingredients": [
+        "Broccoli",
+        "Carrots",
+        "Bell peppers",
+        "Snap peas",
+        "Mushrooms",
+        "Garlic",
+        "Ginger",
+        "Soy sauce",
+        "Sesame oil",
+        "Cornstarch",
+        "Vegetable broth",
+        "Salt",
+        "Black pepper"
+      ],
+      "instructions": "Heat sesame oil in a wok or large skillet over high heat. Add minced garlic and grated ginger, and stir-fry for a minute. Add broccoli florets, sliced carrots, sliced bell peppers, snap peas, and sliced mushrooms. Stir-fry for a few minutes until the vegetables are tender-crisp. In a small bowl, whisk together soy sauce, cornstarch, and vegetable broth to make a sauce. Pour the sauce over the vegetables and toss to coat evenly. Cook for another minute or until the sauce thickens. Season with salt and black pepper to taste. Serve the vegetable stir-fry over steamed rice or noodles."
+    },
+    {
+      "id": 30,
+      "username": "cheesecakelover",
+      "title": "Cheesecake",
+      "image": "https://th.bing.com/th?id=OSK.HEROhFkjLVJXC4nu2A6Ws7Ei8OMeKxvBQTR64h_j77fRd98&w=472&h=280&c=13&rs=2&o=6&oif=webp&dpr=1.1&pid=SANGAM",
+      "description": "Creamy and rich cheesecake with a buttery graham cracker crust.",
+      "category": "Dessert",
+      "ingredients": [
+        "Graham cracker crumbs",
+        "Butter",
+        "Cream cheese",
+        "Granulated sugar",
+        "Eggs",
+        "Sour cream",
+        "Vanilla extract",
+        "Lemon juice"
+      ],
+      "instructions": "Preheat the oven to 180°C. In a bowl, mix together graham cracker crumbs and melted butter until well combined. Press the mixture into the bottom of a springform pan to form the crust. In a separate bowl, beat cream cheese, granulated sugar, eggs, sour cream, vanilla extract, and lemon juice until smooth and creamy. Pour the cream cheese mixture over the crust in the pan. Smooth the top with a spatula. Bake for about 45-50 minutes or until the cheesecake is set and slightly golden on top. Remove from the oven and let it cool in the pan. Refrigerate for at least 4 hours or overnight before serving. Serve the cheesecake chilled and garnish as desired."
+    },
+    {
+      "id": 31,
+      "username": "mushroomchef",
+      "title": "Spinach and Feta Stuffed Mushrooms",
+      "image": "https://bing.com/th?id=OSK.8f2e40112be962c246bb76fec701f2cd",
+      "description": "Delicious mushrooms filled with a savory mixture of spinach, feta cheese, breadcrumbs, and herbs.",
+      "category": "Starter",
+      "ingredients": [
+        "Mushrooms",
+        "Spinach",
+        "Feta cheese",
+        "Breadcrumbs",
+        "Garlic",
+        "Fresh parsley leaves",
+        "Olive oil",
+        "Salt",
+        "Black pepper"
+      ],
+      "instructions": "Preheat the oven to 200°C. Remove the stems from the mushrooms and set aside. Place the mushroom caps on a baking sheet lined with parchment paper. In a skillet, heat olive oil over medium heat. Add minced garlic and chopped mushroom stems, and cook until softened. Add chopped spinach and cook until wilted. Remove from heat and let it cool slightly. In a bowl, combine the spinach mixture, crumbled feta cheese, breadcrumbs, chopped fresh parsley, salt, and black pepper. Spoon the filling into the mushroom caps. Bake for about 15-20 minutes or until the mushrooms are tender and the filling is golden brown. Serve the stuffed mushrooms as a delicious starter."
+    },
+    {
+      "id": 32,
+      "username": "beeflover",
+      "title": "Beef Stir-Fry",
+      "image": "https://bing.com/th?id=OSK.155793c33da5dca0312155e30839c009",
+      "description": "Tender beef strips stir-fried with colorful vegetables in a flavorful sauce.",
+      "category": "Main Course",
+      "ingredients": [
+        "Beef sirloin",
+        "Soy sauce",
+        "Cornstarch",
+        "Garlic",
+        "Ginger",
+        "Broccoli",
+        "Bell peppers",
+        "Carrots",
+        "Snap peas",
+        "Beef broth",
+        "Oyster sauce",
+        "Sesame oil",
+        "Vegetable oil",
+        "Salt",
+        "Black pepper"
+      ],
+      "instructions": "In a bowl, combine sliced beef sirloin, soy sauce, and cornstarch. Let it marinate for 15-20 minutes. In a wok or large skillet, heat vegetable oil and sesame oil over high heat. Add minced garlic and grated ginger, and stir-fry for a minute. Add the marinated beef and stir-fry until browned. Remove the beef from the wok and set aside. In the same wok, stir-fry broccoli florets, sliced bell peppers, julienned carrots, and snap peas until tender-crisp. In a small bowl, whisk together beef broth, oyster sauce, soy sauce, and cornstarch to make a sauce. Pour the sauce into the wok and cook until it thickens. Return the beef to the wok and toss to coat with the sauce. Season with salt and black pepper to taste. Serve the beef stir-fry over steamed rice or noodles."
+    },
+    {
+      "id": 33,
+      "username": "applelover",
+      "title": "Apple Crisp",
+      "image": "https://bing.com/th?id=OSK.290f4e8ac3b6dc2f8062e60a4649d46a",
+      "description": "Warm and comforting apple dessert topped with a sweet and crunchy oat topping.",
+      "category": "Dessert",
+      "ingredients": [
+        "Apples",
+        "Lemon juice",
+        "Granulated sugar",
+        "Ground cinnamon",
+        "All-purpose flour",
+        "Rolled oats",
+        "Brown sugar",
+        "Butter",
+        "Salt"
+      ],
+      "instructions": "Preheat the oven to 180°C. Peel, core, and slice apples. Toss the apple slices with lemon juice, granulated sugar, and ground cinnamon. In a separate bowl, mix together all-purpose flour, rolled oats, brown sugar, and a pinch of salt. Cut in cold butter using a pastry cutter or your fingertips until the mixture resembles coarse crumbs. Spread the apple slices in a baking dish and sprinkle the oat topping evenly over the apples. Bake for about 30-35 minutes or until the apples are tender and the topping is golden brown. Serve the apple crisp warm with a scoop of vanilla ice cream or a dollop of whipped cream."
+    },
+    {
+      "id": 34,
+      "username": "bruschettachef",
+      "title": "Bruschetta",
+      "image": "https://bing.com/th?id=OSK.0ec5400f597dc0722c7d04f7659e34ab",
+      "description": "Toasted bread topped with a flavorful mixture of diced tomatoes, fresh basil, garlic, and olive oil.",
+      "category": "Starter",
+      "ingredients": [
+        "Baguette",
+        "Tomatoes",
+        "Fresh basil leaves",
+        "Garlic",
+        "Extra virgin olive oil",
+        "Balsamic vinegar",
+        "Salt",
+        "Black pepper"
+      ],
+      "instructions": "Preheat the oven to 200°C. Slice the baguette into thick slices and arrange them on a baking sheet. Toast the bread in the oven until golden brown and crisp. In a bowl, combine diced tomatoes, chopped fresh basil leaves, minced garlic, extra virgin olive oil, balsamic vinegar, salt, and black pepper. Mix well. Spoon the tomato mixture over the toasted bread slices. Serve the bruschetta as an appetizing starter or appetizer."
+    },
+    {
+      "id": 35,
+      "username": "shrimpchef",
+      "title": "Shrimp Scampi",
+      "image": "https://bing.com/th?id=OSK.9833e3ac73ea50f7118cec0b37c767a8",
+      "description": "Juicy shrimp cooked in a buttery garlic and lemon sauce, served over pasta or crusty bread.",
+      "category": "Main Course",
+      "ingredients": [
+        "Shrimp",
+        "Garlic",
+        "Lemon juice",
+        "White wine",
+        "Butter",
+        "Olive oil",
+        "Red pepper flakes",
+        "Salt",
+        "Black pepper",
+        "Parsley"
+      ],
+      "instructions": "In a large skillet, melt butter and olive oil over medium heat. Add minced garlic and red pepper flakes, and cook for a minute. Add shrimp and cook until they turn pink and are cooked through. Remove the shrimp from the skillet and set aside. Deglaze the skillet with white wine, scraping up any browned bits. Add lemon juice, salt, and black pepper. Cook until the sauce reduces slightly. Return the shrimp to the skillet and toss to coat with the sauce. Sprinkle with chopped parsley. Serve the shrimp scampi over pasta or with crusty bread to soak up the delicious sauce."
+    }
+  ]
+}
